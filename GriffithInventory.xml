@@ -1,0 +1,1727 @@
+ Roberta Griffith Papers 
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+<eadheader>
+<eadid>CHA-CollectionID_EAD</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>CollectionName finding aids, by YourName</titleproper>
+</titlestmt>
+</filedesc>
+</eadheader><archdesc level="collection">
+<did>
+<unitid>SC #</unitid>
+<langmaterial><language>English, and other?</language></langmaterial>
+<origination><persname>Creator of the collection</persname></origination>
+<unittitle>Title of the Collection</unittitle>
+<unitdate>Date range</unitdate>
+<physdesc><extent>.</extent></physdesc>
+</did><dsc type="combined">
+ <c01 level="series">
+    <did><container type="box-folder" label="Box ">SC26 1</container><unittitle>EARLY LIFE AND EDUCATION</unittitle><unitdate>1940s</unitdate><physdesc>– 1962 (including Class Reunions)</physdesc></did>
+       <c02 level="file">
+          <did><unittitle>Grade School</unittitle><unitdate>1940s</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Youth Talent Exhibits</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Program and Award</unittitle><unitdate>1948</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Fliers/letters</unittitle><unitdate>1948-51</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Ribbons</unittitle><unitdate>1948-54</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Newspaper Clippings</unittitle><unitdate>1948-54</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Camp Fire Girls</unittitle><unitdate>1950</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>National Music Camp</unittitle><unitdate>1951-52</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Junior High School</unittitle><unitdate>1952</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Battle Creek High School</unittitle><unitdate>1952-1955</unitdate></did>
+          <c03 level="file">
+             <did><unittitle>Aquatics</unittitle><unitdate>1950s</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Band and Chorus</unittitle><unitdate>1950s</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Theatre:</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>“The Pirates of Penzance”</unittitle><unitdate>1951</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>“Cinderella”</unittitle><unitdate>1952</unitdate></did>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Miss Battle Creek</unittitle><unitdate>1954</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>National Honor Society</unittitle><unitdate>1955</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Battle Creek High School - Reunions</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Battle Creek Central Class of</unittitle><unitdate>1955</unitdate><physdesc>- Reunion 2000</physdesc></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Hall of Fame Class of</unittitle><unitdate>2006</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>“Scene Magazine”</unittitle><unitdate>2007</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>University of Michigan, Ann Arbor</unittitle><unitdate>1955-1957</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Instituto Allende, Mexico</unittitle><unitdate>1957-1958</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Chouinard Art Institute</unittitle><unitdate>1958-1960</unitdate></did>
+          <c03 level="file">
+             <did><unittitle>Transcripts</unittitle></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Gazette and Graphics</unittitle><unitdate>n.d.</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Reunion</unittitle><unitdate>1993</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Michigan State University</unittitle><unitdate>1959</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Southern Illinois University – Carbondale</unittitle><unitdate>1960-1962</unitdate></did>
+          <c03 level="file">
+             <did><unittitle>Transcript and Commencement</unittitle></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Newspaper Articles – early life</unittitle><unitdate>1950-1962</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Family History and Certificates</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>FULBRIGHT - BARCELONA, SPAIN</unittitle><unitdate>1962</unitdate><physdesc>– 1964</physdesc></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Josep Llorens Artigas – L’Escola Massana</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Instituto de Estudios Norteamericanos</unittitle><unitdate>1963-64</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>International Congress of Ethnography Santo Tirso, Portugal</unittitle><unitdate>July 1963</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Exposición De Pinturas – Roberta Jean Griffith</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Celler D’en Climent – Selva De Mar</unittitle><unitdate>September 1963</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>II Certamen Nacional de Artes plásticas</unittitle><unitdate>December 1963</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Exposicion De Arte Socios Y Amigos Del Instituto</unittitle><unitdate>February 1964</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Cerámica A Gran Fuego Roberta-Jean Griffith</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Conservatorio Municipal De Artes Suntuarias Massana</unittitle><unitdate>February 1964</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Instituto de Estudios – Norteamericanos</unittitle><unitdate>1964</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>VIII Salon De Mayo</unittitle><unitdate>1964</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Tercer Premi Dibuix Joan Miró</unittitle><unitdate>June 1964</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>III Salon Femenino De Arte Actual</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Sala Municipal De Exposiciones</unittitle><unitdate>October 1964</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Exposicion de Artistas Becarios (Fulbright)</unittitle><unitdate>1964</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Fulbright</unittitle><unitdate>1964</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Publicationes Espanolas Cuadernos de Arte Collecion Ordinaria</unittitle><unitdate>1964</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Suma y sigue del arte contemporáneo</unittitle><unitdate>March 1964</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Journal - artes</unittitle><unitdate>- November 1963, April 1964, May 1964, June 1964</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Articles –</unittitle><unitdate>1964</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>HARTWICK COLLEGE CAREER</unittitle><unitdate>1966</unitdate><physdesc>– 2008</physdesc></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Hartwick College Balls and Event Brochures - Cover Designs</unittitle><unitdate>c.1968</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>New York State Education</unittitle><unitdate>1969</unitdate><physdesc>– 1975</physdesc></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Yager Museum &amp; Foreman Galleries</unittitle><unitdate>1969-1995</unitdate></did>
+          <c03 level="file">
+             <did><unittitle>Programs</unittitle><unitdate>1971-2007</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Fliers</unittitle><unitdate>1969-2007</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>News Clippings</unittitle><unitdate>1971-1989</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Foreman Gallery Exhibition: Dōtaku Transmutation Series</unittitle><unitdate>1989</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Christmas Pottery Sale</unittitle><unitdate>n.d.</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>San Salvador</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Art Research and Study</unittitle><unitdate>1973</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Research</unittitle><unitdate>1973</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>President’s Christmas Card</unittitle><unitdate>1972, 1973, 1974, 1977</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Arkell Hall Endowed Chair and Professor of Art</unittitle><unitdate>1979 -2008</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Hartwick Public Relations – Merilee Gomillion</unittitle><unitdate>c.1981</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Dōtaku Transmutation Series – Foreman Gallery</unittitle><unitdate>1988</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Images of Leadership Workshop – Clemens/Griffith</unittitle><unitdate>1990</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Hartwick Class Reunion</unittitle><unitdate>- Summer 1990</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Arts for</unittitle><unitdate>April 1994</unitdate></did>
+          <c03 level="file">
+             <did><unittitle>Schedule</unittitle></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Invitations and Planning</unittitle></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Fliers</unittitle></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>News clippings</unittitle></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Teacher Scholar Award</unittitle><unitdate>1995</unitdate></did>
+          <c03 level="file">
+             <did><unittitle>Program and Letter</unittitle></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>News Clippings</unittitle></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Congratulation Cards and Letters</unittitle></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unitdate>January 1996</unitdate><physdesc>– Sabbatical Report – Mexico: Pre-Columbian &amp; Mesoamerican</physdesc></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Iberia and Down Under – Hartwick Alumni Association Tours</unittitle><unitdate>1997</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Commencements/Convocations/Inauguration</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Mace Carrying</unittitle><unitdate>2000</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Commencements</unittitle><unitdate>2000-05</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Inauguration of Richard P. Miller, Jr.</unittitle><unitdate>2003</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Baccalaureate</unittitle><unitdate>2004-05</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Opening and Honors Convocation</unittitle><unitdate>2004-05</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Retrospective</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Plans for</unittitle><unitdate>2003</unitdate><physdesc>Retrospective</physdesc></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>The Artist Within: An Extended Journey</unittitle><unitdate>2003</unitdate></did>
+             <c04 level="file">
+                <did><unittitle>Notes</unittitle></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Manuscript</unittitle></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Brochure and fliers</unittitle></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Short film - DVD</unittitle></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Roberta Griffith: A Retrospective</unittitle><unitdate>2003</unitdate><physdesc>catalogs (2)</physdesc></did>
+             </c04>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Fund raising letter and package</unittitle><unitdate>2005</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Griffith Ceramic &amp; Glass Mural Project</unittitle><unitdate>Spring 2006</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Tectonics: Mural of a Rockface Anderson Center for the Arts</unittitle><unitdate>2007</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Retirement</unittitle><unitdate>2008</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Hartwick Miscellaneous</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Press Releases</unittitle><unitdate>1966</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Designs for Hartwick College</unittitle></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Student Teaching Transcripts</unittitle><unitdate>1966, 1968, 1975</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Gamma Phi Delta Sorority</unittitle><unitdate>1968</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Courses/Course Releases</unittitle><unitdate>1993-2006</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Correspondence</unittitle></did>
+          </c03>
+       </c02>
+ </c01>
+ <c01 level="series">
+    <did><container type="box-folder" label="Box ">SC26 2</container><unittitle>HARTWICK COLLEGE CAREER - PUBLICATIONS highlighting Roberta Griffith</unittitle></did>
+       <c02 level="file">
+          <did><unittitle>Admissions Brochures</unittitle><unitdate>1972-2005</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Hartwick College Bulletin</unittitle><unitdate>1974</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Hartwick College Summer Programs</unittitle><unitdate>1985-1988</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Hartwick Review</unittitle><unitdate>1967</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Hilltops</unittitle><unitdate>1967-1999</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Humanitask</unittitle><unitdate>1993-1996</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Inside Hartwick</unittitle><unitdate>1992</unitdate><physdesc>(Oversize)</physdesc></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Round Table</unittitle><unitdate>1977, 1982</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Tower Times</unittitle><unitdate>1989-2005</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Website</unittitle><unitdate>2005, 2007</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>WICK</unittitle><unitdate>1988-2007</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>EXHIBITIONS AND INSTALLATIONS</unittitle><unitdate>1958-2018</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Roberta Griffith – Installations</unittitle><unitdate>1988-1998</unitdate><physdesc>by Roberta Griffith (Published book/page proofs)</physdesc></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>International Exhibitions</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>China</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>New Orientalia – Functionality, Spirituality, Diversity</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>IAC</unittitle><unitdate>2018</unitdate><physdesc>New Taipei City, China</physdesc></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Catalogue &amp; Poster</unittitle></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Book (photocopy)</unittitle></did>
+             </c04>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Italy</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Faenza</unittitle><unitdate>1974-1984</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Japan</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Chunichi International Exhibition of Ceramic Arts</unittitle><unitdate>1985</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Kutani, Japan</unittitle><unitdate>1997</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Mexico</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Instituto Allende – Vista Hermosa Hotel</unittitle><unitdate>1958</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Spain</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Barcelona</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>Sala Icaria - Galerias Fortunet Figueras</unittitle><unitdate>1963</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Escuela Massana</unittitle><unitdate>1967</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>De L’Escola Massana</unittitle><unitdate>1971</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Escuela Massana</unittitle><unitdate>1972</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Amigos de Granados</unittitle><unitdate>1974-75</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Ceramistas De La Escuela Massana</unittitle><unitdate>1976</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Exposició Collectiva De Ceràmica</unittitle></did>
+                <c05 level="file">
+                   <did><unittitle>Homenatge De L’Escola Massana A Llorens Artigas</unittitle><unitdate>1981</unitdate></did>
+                </c05>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>XX Prémio Internacional De Desenho Joan Miro</unittitle><unitdate>1981</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Museu de Ceràmica</unittitle></did>
+                <c05 level="file">
+                   <did><unitdate>1981</unitdate></did>
+                </c05>
+                <c05 level="file">
+                   <did><unitdate>1999</unitdate></did>
+                </c05>
+                <c05 level="file">
+                   <did><unitdate>1999</unitdate><physdesc>– News clippings</physdesc></did>
+                </c05>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Fundacio Joan Miro</unittitle><unitdate>1984</unitdate></did>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Madrid</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>Sala de Exposiciones Pintores Extranjeros en Espana</unittitle><unitdate>1963</unitdate></did>
+             </c04>
+          </c03>
+       </c02>
+ </c01>
+ <c01 level="series">
+    <did><container type="box-folder" label="Box ">SC26 3</container><unittitle>EXHIBITIONS AND INSTALLATIONS</unittitle><unitdate>1958-2018</unitdate><physdesc>(continued)</physdesc></did>
+       <c02 level="file">
+          <did><unittitle>United States</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>California</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Chouinard Art Institute</unittitle><unitdate>2001</unitdate><physdesc>Oceanside, CA</physdesc></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Connecticut</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Ellsworth Gallery</unittitle><unitdate>1977, 1979</unitdate><physdesc>Simsbury, CT</physdesc></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Arlene McDaniel Gallery</unittitle><unitdate>1984</unitdate><physdesc>Simsbury, CT</physdesc></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Delaware</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Craftsmen USA ’66 Delaware Arts Center</unittitle></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Georgia</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Great American Gallery</unittitle><unitdate>1982</unitdate><physdesc>Atlanta GA</physdesc></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>La Grange National XXVIII</unittitle><unitdate>2014</unitdate><physdesc>La Grange, GA</physdesc></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Hawai’i</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Honolulu</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>Honolulu Craftsmen</unittitle><unitdate>2012-14</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Artists of Hawai’i</unittitle><unitdate>2013</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Honolulu Museum of Art</unittitle></did>
+                <c05 level="file">
+                   <did><unitdate>2013</unitdate></did>
+                </c05>
+                <c05 level="file">
+                   <did><unitdate>2012-15, 2017</unitdate></did>
+                </c05>
+                <c05 level="file">
+                   <did><unittitle>Ceramics of Hawai’i</unittitle><unitdate>2017</unitdate></did>
+                </c05>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Kaua’i</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>Kaua’i Community T.V.</unittitle><unitdate>2010</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Kaua’i Museum</unittitle><unitdate>2010-11</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Kukui’ula Art Walk</unittitle><unitdate>2012</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Kaua’i Society of Artists</unittitle><unitdate>2012-15</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Princeville Community Fine Arts Exhibit</unittitle><unitdate>2012</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>The Arts at Mark’s Garage - Princeville</unittitle></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Art Kaua’i</unittitle><unitdate>2012-19</unitdate></did>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Maui</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>Schaefer Portrait Challenge</unittitle><unitdate>2012, 2015, 2018</unitdate></did>
+             </c04>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Indiana</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>National Art Museum of Sport</unittitle><unitdate>2011</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Massachusetts</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Endicott College – Boston, MA</unittitle><unitdate>1985</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Winfisky Gallery – Salem, MA</unittitle><unitdate>1992</unitdate></did>
+             <c04 level="file">
+                <did><unittitle>“Material Metaphors /Things Remembered”</unittitle></did>
+             </c04>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Michigan</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Ypsilanti, MI</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>Ford Gallery</unittitle><unitdate>1999</unitdate></did>
+             </c04>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>New Jersey</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Tinton Falls</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>The Old Mill Art Gallery</unittitle><unitdate>December 1964</unitdate></did>
+             </c04>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>New York</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Albany</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>Center Gallery</unittitle></did>
+                <c05 level="file">
+                   <did><unitdate>1984, 1992</unitdate></did>
+                </c05>
+                <c05 level="file">
+                   <did><unitdate>2001</unitdate></did>
+                </c05>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Legislative Office Building – “Drawings &amp; Clayworks”</unittitle><unitdate>1980</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>University Art Gallery</unittitle><unitdate>1979, 1982</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Albany Empire State Plaza - “Art in the Up State”</unittitle><unitdate>1983</unitdate></did>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Binghamton</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>Roberson Center</unittitle><unitdate>1977</unitdate></did>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Chautauqua</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>Chautauqua Art Association Galleries</unittitle><unitdate>1978, 1980</unitdate></did>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Cooperstown</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>Cooperstown Art Association</unittitle></did>
+                <c05 level="file">
+                   <did><unitdate>1972, 1979, 1980, 1982, 1983, 1987, 1989</unitdate></did>
+                </c05>
+                <c05 level="file">
+                   <did><unitdate>1999, 2001, 2008, 2012, 2013, 2018</unitdate></did>
+                </c05>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Gallery 53</unittitle></did>
+                <c05 level="file">
+                   <did><unittitle>“Seventh Inning Stretch”</unittitle><unitdate>1988</unitdate></did>
+                </c05>
+                <c05 level="file">
+                   <did><unittitle>“Clay Today – A Wide Array”</unittitle><unitdate>1989</unitdate></did>
+                </c05>
+                <c05 level="file">
+                   <did><unittitle>“Top of the Ninth”</unittitle><unitdate>1990</unitdate></did>
+                </c05>
+                <c05 level="file">
+                   <did><unittitle>“Extra Innings”</unittitle><unitdate>1991</unitdate></did>
+                </c05>
+                <c05 level="file">
+                   <did><unittitle>“Play Ball”</unittitle><unitdate>1992</unitdate></did>
+                </c05>
+                <c05 level="file">
+                   <did><unittitle>“A Whole New Ball Game”</unittitle><unitdate>1993</unitdate></did>
+                </c05>
+                <c05 level="file">
+                   <did><unittitle>“The Art of the Game”</unittitle><unitdate>1994</unitdate></did>
+                </c05>
+                <c05 level="file">
+                   <did><unittitle>“Stealing Home”</unittitle><unitdate>1996</unitdate></did>
+                </c05>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>The Smithy</unittitle><unitdate>2011, 2012</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Fenimore Art Museum “Conversation Pieces”</unittitle></did>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Endicott</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>Endicott College Art Center Gallery</unittitle><unitdate>1985</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Avenue Art Gallery</unittitle><unitdate>2005</unitdate></did>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Ithaca</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>Craft Fair Ithaca</unittitle><unitdate>1974</unitdate></did>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>New York City</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>Artist Craftsmen – National Design Center</unittitle><unitdate>1965</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>De Mena Gallery</unittitle><unitdate>1965-66</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>De Mena – News Articles</unittitle></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Young Americans</unittitle><unitdate>1962</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Greenwich House Pottery - “Artigas and Miro”</unittitle><unitdate>1987</unitdate></did>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Norwich</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>Norwich Fine Arts Guild</unittitle><unitdate>1978, 1979, 1980</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>“Made in Japan”</unittitle><unitdate>1989</unitdate></did>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Oneonta</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>Bacram Gallery</unittitle><unitdate>1974</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>SUNY Fine Arts Gallery “Clay in the Catskills”</unittitle><unitdate>1983</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>UCCA – Annual Festival of the Arts</unittitle><unitdate>1972, 1974, 1975</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>UCCA – Annual Exhibitions</unittitle><unitdate>1975, 1977, 1978</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>UCCA – “An End in Itself –A Means to an End”</unittitle><unitdate>1995</unitdate></did>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Otego</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>“Art on Fire”</unittitle><unitdate>1994</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>“Earthworks”</unittitle><unitdate>1997</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>“Ceramic Masks”</unittitle><unitdate>2006</unitdate></did>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Port Washington</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>Invitational Craft Exhibition</unittitle></did>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Rosendale</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>“Women in Clay”</unittitle><unitdate>2000</unitdate></did>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Saratoga Springs</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>Schick Art Gallery</unittitle><unitdate>1989, 2002, 2007</unitdate></did>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Scarsdale</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>The Craftmen’s Gallery</unittitle><unitdate>1982</unitdate></did>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Schenectady</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>Mohawk-Hudson Regional Art Exhibition</unittitle><unitdate>1980, 1982</unitdate></did>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Sidney</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>The Gallery</unittitle><unitdate>1978</unitdate></did>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>St. James</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>Smithtown Township Arts Council</unittitle><unitdate>2000</unitdate></did>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Syracuse</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>Everson Museum</unittitle><unitdate>1964-1965</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Everson Museum</unittitle><unitdate>1979</unitdate></did>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Utica</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>Munson-Williams-Proctor</unittitle></did>
+                <c05 level="file">
+                   <did><unitdate>1971, 1988, 1990</unitdate></did>
+                </c05>
+                <c05 level="file">
+                   <did><unittitle>Shows</unittitle><unitdate>1981, 1982</unitdate></did>
+                </c05>
+                <c05 level="file">
+                   <did><unittitle>Clippings</unittitle><unitdate>1982, 1993</unitdate></did>
+                </c05>
+             </c04>
+          </c03>
+       </c02>
+ </c01>
+ <c01 level="series">
+    <did><container type="box-folder" label="Box ">SC26 4</container><unittitle>EXHIBITIONS AND INSTALLATIONS</unittitle><unitdate>1958-2018</unitdate><physdesc>(continued)</physdesc></did>
+       <c02 level="file">
+          <did><unittitle>United States</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>North Carolina</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>“Beyond the Physical”</unittitle><unitdate>2001</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Ohio</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>National Ceramics Invitational</unittitle><unitdate>1984</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Pennsylvania</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>East Stroudsburg State College – The Gallery</unittitle><unitdate>1966</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>The Hazelton Art League</unittitle><unitdate>1966</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Lycoming College Art Gallery – “Clayworks &amp; Drawings”</unittitle><unitdate>1981</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Texas</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Joseph A. Cain Art Gallery - Corpus Christi, TX</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>“Drawing &amp; Small Sculpture”</unittitle><unitdate>1982, 1983, 2014</unitdate></did>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Wichita Falls Museum – Wichita Falls, TX</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>A National Ceramic Competition</unittitle><unitdate>1991</unitdate></did>
+             </c04>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Washington</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Madart Community Summer Exhibit - Seattle, WA</unittitle><unitdate>2009</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>West Virginia</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Charleston Art Gallery – Appalachian Corridors</unittitle><unitdate>June/July 1975</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Exhibitions and Installations - Memorabilia</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Requests for exhibits/Calls for entries</unittitle></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Miscellaneous Exhibit Catalogs and Announcements</unittitle></did>
+          </c03>
+          <c03 level="file">
+             <did><unitdate>1969</unitdate><physdesc>– Show and Pricing</physdesc></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>ARTISTIC STATEMENTS</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Dōtaku Transmutation Series - English</unittitle><unitdate>1988-89</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Serie De Las Trasmutaciones Dōtaku - Spanish</unittitle><unitdate>1988-89</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Homage to Suizenji - English</unittitle><unitdate>1991</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Homenaje A Suizenji - Spanish</unittitle><unitdate>1991</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Haramachi Revisited - English</unittitle><unitdate>1992</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Haramachi Revisitdo - Spanish</unittitle><unitdate>1992</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Material Metaphors/Things Remembered - English and Spanish</unittitle><unitdate>1993</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Nikko Transfer Series - English</unittitle><unitdate>1994</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Serie De Las Transferencias De Nikko - Spanish</unittitle><unitdate>1994</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Earthworks – The Adobe Series - English</unittitle><unitdate>1997</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Trabajo En Tierra – Serie De Los Adobes - Spanish</unittitle><unitdate>1997</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>The Garden Series - English</unittitle><unitdate>1997-98</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Serie De Los Jardines - Spanish</unittitle><unitdate>1997-98</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Nezu Reflection - English</unittitle><unitdate>1998</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Reflexiones De Nezu - Spanish</unittitle><unitdate>1998</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Intersection Transposeō</unittitle><unitdate>2000</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Hawai’i Craftsmen</unittitle><unitdate>2017</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Artist Statements - Miscellaneous</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>LOCAL ART ORGANIZATIONS - Files</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Cooperstown Art Association</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Cooperstown - Gallery 53</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>New York State Women’s in Art Working Papers</unittitle><unitdate>1977</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Norwich Fine Arts Guild</unittitle><unitdate>1978-82</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Soccer Hall of Fame</unittitle><unitdate>1984</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Upper Catskill Council on the Arts (UCCA)</unittitle><unitdate>1975-2007</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>WNET/Thirteen, New York, NY</unittitle><unitdate>1984</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>PUBLICATIONS – About Roberta Griffith</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Books</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>De Waal, Edmund, Design Sourcebook Ceramics,</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>London, England: New Holland Publishers (UK) Ltd., 2000. [pp.36-37]</unittitle></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Fairbanks, Jonathan and Fina, Angela and Gustin, Christopher,</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>The Contemporary Potter,</unittitle></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Gloucester, MA: Rockport Publishers, 2000. [p. 135]</unittitle></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Latka, Tom and Jean, Ceramic Extruding, Iola, WI: Krause Publications, 2001. [p.99]</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Nelson, Glenn C., Ceramics: A Potter’s Handbook,</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Ft. Worth, TX: Holt, Reinhardt and Winston, 1984. [pp. 139, 246]</unittitle></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Nigrosh, Leon I., Claywork: Form and Idea in Ceramic Design,</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Worcester, MA: Davis Publications, 1975. [p. 75]</unittitle></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Nigrosh, Leon I., Claywork: Form and Idea in Ceramic Design, 2nd Edition, Worcester, MA: Davis Publications,</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Nigrosh, Leon I., Low Fire – Other Ways to Work in Clay,</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Worcester, MA: Davis Publications, 1980.</unittitle></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Nigrosh, Leon I., Sculpting Clay, Worcester, MA: Davis Publications, 1992. [p. 82]</unittitle></did>
+       </c02>
+ </c01>
+ <c01 level="series">
+    <did><container type="box-folder" label="Box ">SC26 5</container><unittitle>PUBLICATIONS – About Roberta Griffith</unittitle></did>
+       <c02 level="file">
+          <did><unittitle>Books (cont.)</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Perry, Barbara, American Ceramics – The Collection of the Everson Museum of Art, New York, NY: Rizzoli International Publications, Inc., 1989. [pp.254-255]</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Peterson, Susan, Contemporary Ceramics, New York,</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>NY: Watson-Guptill Publications, 20. [p. 63]</unittitle></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Yilong, Hua, ed., Works by Ceramic Artists from Around the World, Shanghai: Shanghai Fine Arts Publishers, 2006. [Vol.II, p.206]</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Zakin, Richard, Hand-Formed Ceramics, Creating Form and Surface, Radnor, PA: Chilton Book Company, 1995. [pp. 184-185]</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Zakin, Richard, Ceramics: Mastering the Craft, Iola, WI: Krause Publications, 2001. [p.63]</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>PUBLICATIONS – About Roberta Griffith</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>English Journals and Magazines</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>American Ceramics</unittitle><unitdate>1999, 2002</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>American Craft</unittitle><unitdate>Feb/Mar 1982</unitdate></did>
+          <c03 level="file">
+ <did><unittitle>[Title]</unittitle>[Date]<unitdate></unitdate></did>             <c04 level="file">
+                <did><unitdate>Dec/Jan 1982/83</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unitdate>June/July 1983</unitdate></did>
+             </c04>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unitdate>Oct/Nov 1984</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unitdate>Aug/Sept 1999</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unitdate>June/July 2003</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Calarts – California Institute of the Arts</unittitle><unitdate>Summer/Fall 2018</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Ceramics: Art and Perception</unittitle><unitdate>March 2001</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Ceramics Monthly</unittitle></did>
+          <c03 level="file">
+ <did><unittitle>[Title]</unittitle>[Date]<unitdate></unitdate></did>             <c04 level="file">
+ <did><unittitle>[Title]</unittitle>[Date]<unitdate></unitdate></did>                <c05 level="file">
+                   <did><unitdate>April 1974</unitdate></did>
+                </c05>
+                <c05 level="file">
+                   <did><unitdate>May 1977</unitdate></did>
+                </c05>
+                <c05 level="file">
+                   <did><unitdate>November 1989</unitdate></did>
+                </c05>
+                <c05 level="file">
+                   <did><unitdate>January 1992</unitdate></did>
+                </c05>
+                <c05 level="file">
+                   <did><unitdate>April 1993</unitdate></did>
+                </c05>
+                <c05 level="file">
+                   <did><unitdate>March 1995</unitdate></did>
+                </c05>
+                <c05 level="file">
+                   <did><unitdate>January 2000</unitdate></did>
+                </c05>
+                <c05 level="file">
+                   <did><unitdate>November 2017</unitdate></did>
+                </c05>
+             </c04>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Craft Horizons</unittitle><unitdate>June 1977</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Honolulu Museum of Art</unittitle><unitdate>Summer 2017, Fall 2017</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Kerameiki Techni</unittitle><unitdate>December 2003</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>NCECA Journal</unittitle><unitdate>1984, 1985, 1986, 2001, 2004</unitdate></did>
+       </c02>
+ </c01>
+ <c01 level="series">
+    <did><container type="box-folder" label="Box ">SC26 6</container><unittitle>PUBLICATIONS – About Roberta Griffith</unittitle></did>
+       <c02 level="file">
+          <did><unittitle>Spanish and French Journals and Magazines</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Canigó</unittitle><unitdate>1981</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Ceramica</unittitle><unitdate>1981, 1983, 1985, 1995, 1999, 2001, 2003, 2013 2014, 2017, 2019</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Cuadernos de Arte</unittitle><unitdate>1964</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Guia del ocio</unittitle><unitdate>March 1999, April 1999</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Informativ Museus</unittitle><unitdate>1999</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>La Revue Moderne</unittitle><unitdate>October 1969</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>La Vanguardia</unittitle><unitdate>May 1999</unitdate><physdesc>[“Reflexiones de Nezu”]</physdesc></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Publicaceio associacio ceramists de Catalunya</unittitle><unitdate>1999</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>RevistArt</unittitle><unitdate>1999</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>PUBLICATIONS – About Roberta Griffith</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Press Releases and News Articles</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Press Releases</unittitle></did>
+          <c03 level="file">
+             <did><unitdate>1966-1988</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unitdate>1981</unitdate><physdesc>– Barcelona Exhibition</physdesc></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>News Articles</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>The Daily Star</unittitle><unitdate>1966</unitdate><physdesc>– 2003</physdesc></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>The Daily Star</unittitle><unitdate>3/12/2016</unitdate><physdesc>William Wood Obituary</physdesc></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Other Newspapers</unittitle><unitdate>1979-2007</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Photocopies</unittitle><unitdate>1974-1984</unitdate></did>
+             <c04 level="file">
+ <did><unittitle>[Title]</unittitle>[Date]<unitdate></unitdate></did>                <c05 level="file">
+                   <did><unitdate>1988-2007</unitdate></did>
+                </c05>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Hawaiian Clippings</unittitle></did>
+             <c04 level="file">
+                <did><unitdate>2002-2011</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unitdate>2012-2014</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unitdate>2017-2018</unitdate></did>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Spanish Articles</unittitle></did>
+             <c04 level="file">
+                <did><unitdate>1974-1999</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Photocopies</unittitle></did>
+             </c04>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Newsletters/Promotionals/Clippings/Web</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Artist-Craftsmen of New York</unittitle><unitdate>1970-82</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Artsview</unittitle><unitdate>1992</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>College Art Association Newsletter</unittitle><unitdate>1992, 1994</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Eta Cardinal – University of Michigan</unittitle><unitdate>2003-04, 2006</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>inform – Empire State Crafts Alliance</unittitle><unitdate>1989, 1999, 2000</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Museo De Ceramica</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Promotionals</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Web-based</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Miscellaneous Photocopies</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>PUBLICATIONS – By Roberta Griffith</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“Pottery of Puente Del Arzobispo, Spain,” Lisboa</unittitle><unitdate>1965</unitdate></did>
+          <c03 level="file">
+             <did><unittitle>[See also: Actas Do Congresso Internacional de Ethnografia, Vol II 1963]</unittitle></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Article by and about Roberta Griffith, Ceramica</unittitle><unitdate>1981</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“Spanish Ceramics,” NCECA</unittitle><unitdate>Spring 1984</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“Cahokia: Ramey Incised Pottery,” NCECA</unittitle><unitdate>1985</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“SIGnificant Interests,” NCECA</unittitle><unitdate>Fall 1985 and 1986</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“José Lloréns Artigas and Joan Miro,” The Studio Potter</unittitle><unitdate>December 1985</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“ ’95 Jingdezhen Kolin International Ceramic Art Conference,”</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>The Studio Potter</unittitle><unitdate>December 1995</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“The Visual Arts: Up Close and Personal,” Phi Theta Kappa International Honor Society,</unittitle></did>
+          <c03 level="file">
+             <did><unitdate>1996/97</unitdate><physdesc>Annual</physdesc></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“Roberta Griffith – Installations 1988-1998”</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“The Adobe Series,” Ceramics Technical</unittitle><unitdate>1998</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“Mural of a Rockface,” Ceramics Technical</unittitle><unitdate>2008</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“otto y vivika heino,” Revisita Internacional Ceramica</unittitle><unitdate>2009</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“hirotsune tashima,” Revisita Internacional Ceramica</unittitle><unitdate>2010</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“Milwaukee se convierte en la Ciudad de la Cerámica en 2014,”</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>[NCECA 2014]</unittitle></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Revisita Internacional Ceramica</unittitle><unitdate>2014</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“The Ceramic Collaboration of Josep Llorens i Artigas and Joan Miró i Ferrà,”</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>NCECA Journal</unittitle><unitdate>2016</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“La Cerámica Yixing En China,” Revisita Internacional Ceramica</unittitle><unitdate>2017</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“Unpleasant Conversations: The No Series Exhibition,”</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Ceramics Art and Perception</unittitle><unitdate>October 2017</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“Ceramistas De Taiwan: Ah Leon, Hsu Yunghsu Y, Cheng Cheng-Hsun,”</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Ceramica</unittitle><unitdate>2019</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“Dean McRaine: The Psychadelic Potter,”</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Ceramics Art and Perception</unittitle><unitdate>April 2019</unitdate></did>
+          </c03>
+       </c02>
+ </c01>
+ <c01 level="series">
+    <did><container type="box-folder" label="Box ">SC26 7</container><unittitle>REPORTS, JOURNALS, LECTURES, WORKSHOPS, CORRESPONDENCE</unittitle><unitdate>1953-2016</unitdate></did>
+       <c02 level="file">
+          <did><unittitle>Reports/Journals</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“Trip to Japan”</unittitle><unitdate>1986</unitdate><physdesc>Journal</physdesc></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“Around the World in 90 Days” -</unittitle><unitdate>1994/95 Fall 1995</unitdate><physdesc>Sabbatical Report</physdesc></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Lectures and Workshops</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Greenwich House – Lecture and Murals</unittitle><unitdate>1986-87</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Lectures and Workshops</unittitle><unitdate>1987- 2000</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Josep Llorens Artigas IAC PowerPoint Presentation</unittitle><unitdate>9/15/2016</unitdate><physdesc>[includes thumbdrive]</physdesc></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Correspondence</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Correspondence with Museums and Galleries</unittitle></did>
+          <c03 level="file">
+             <did><unitdate>1976-1984</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unitdate>1989</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unitdate>1993-1996</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>The Arts Collector Gallery</unittitle><unitdate>1986</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Exhibition Correspondence and Participation</unittitle><unitdate>1987-89</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Munson-Williams-Proctor</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>Dōtaku Transmutation Series</unittitle><unitdate>March 1988</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Haramachi Revisited</unittitle><unitdate>1993</unitdate></did>
+             </c04>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Correspondence with Colleges</unittitle><unitdate>1975-92</unitdate></did>
+          <c03 level="file">
+             <did><unittitle>Hartwick College</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>Faculty Updates</unittitle><unitdate>1991, 1993-2005</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Claim Against – damaged sculpture</unittitle><unitdate>2003</unitdate></did>
+             </c04>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Correspondence – General</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>American Craft</unittitle><unitdate>1994</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Borras, Maria Lluisa</unittitle><unitdate>April 1999</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Ceramica</unittitle><unitdate>1995</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Ceramics Monthly</unittitle><unitdate>1977-83</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Craft Alliance of New York State</unittitle><unitdate>2000</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Latin American Art</unittitle><unitdate>c.1968</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Museu de Ceràmica</unittitle><unitdate>1980-89</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>National Council of Art Administrators</unittitle><unitdate>1990-91</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>National Council on Education for the Ceramic Arts (NCECA)</unittitle></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Articles</unittitle><unitdate>1982-85</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Proposals</unittitle><unitdate>2007</unitdate></did>
+          <c03 level="file">
+             <did><unittitle>Nigrosh, Leon/Zakin, Richard</unittitle><unitdate>1974, 1989-90</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>“T” Shirts - Mesoamerican</unittitle><unitdate>1991</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Correspondence – Miscellaneous</unittitle><unitdate>1953-2003</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>SCHOLARSHIPS, AWARDS, CERTIFICATES</unittitle><unitdate>1958-2000</unitdate></did>
+          <c03 level="file">
+             <did><unittitle>Scholarships</unittitle></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Instituto Allende</unittitle><unitdate>1958</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Awards</unittitle></did>
+          </c03>
+          <c03 level="file">
+             <did><unitdate>1960-2008</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Concorso Internazionale Della Ceramica D-Arte</unittitle><unitdate>1970-80</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Grants to Spain</unittitle><unitdate>1977-82</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Hartwick College</unittitle><unitdate>1996-2008</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Daughters of the American Revolution –</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>Women in the Arts Recognition Award</unittitle><unitdate>June 2019</unitdate></did>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Certificates</unittitle></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>The World of Who’s Who of Women</unittitle><unitdate>1970s-1995</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Women of Distinction – New York State</unittitle><unitdate>2000</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>MEMORABILIA</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Art Magazines/Conference Programs</unittitle></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>The Business of Creativity, by Keith Granet,</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>Princeton Architectural Press,</unittitle><unitdate>2017</unitdate></did>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Exhibition Cards and Posters</unittitle></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Exhibition: “Roberta Griffith: Self-Portrait”</unittitle></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>An exhibition documenting her life and work.</unittitle></did>
+          <c03 level="file">
+ <did><unittitle>[Title]</unittitle>[Date]<unitdate></unitdate></did>             <c04 level="file">
+ <did><unittitle>[Title]</unittitle>[Date]<unitdate></unitdate></did>                <c05 level="file">
+                   <did><unittitle>Materials selected from the Roberta Griffith Papers</unittitle></did>
+                </c05>
+                <c05 level="file">
+                   <did><unitdate>Fall 2019</unitdate></did>
+                </c05>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Journals/Newsletters (English)</unittitle></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Journals/Articles (Spanish)</unittitle></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Newspaper Articles (English)</unittitle></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Guestbook</unittitle><unitdate>c. 1969</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Williams, David E.</unittitle></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Shipping Receipts</unittitle></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Memorabilia - miscellaneous</unittitle></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>BIOGRAPHIES, BIBLIOGRAPHIES, RESUMES</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Biographies/Bibliographies</unittitle></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Resumes</unittitle></did>
+             <c04 level="file">
+                <did><unittitle>For Exhibitions</unittitle></did>
+             </c04>
+             <c04 level="file">
+                <did><unitdate>2003-06</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unitdate>2002</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unitdate>1977-89</unitdate></did>
+             </c04>
+             <c04 level="file">
+                <did><unitdate>1975</unitdate></did>
+             </c04>
+          </c03>
+       </c02>
+ </c01>
+ <c01 level="series">
+    <did><container type="box-folder" label="Box ">SC26 8</container><unittitle>BIOGRAPHIES, BIBLIOGRAPHIES, RESUMES</unittitle></did>
+       <c02 level="file">
+          <did><unittitle>Biographies (cont.)</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Actas Do Congresso Internacional de Ethnografia 3 Vols.</unittitle><unitdate>1963</unitdate></did>
+             <c04 level="file">
+                <did><unittitle>“Pottery of Puente Del Arzobispo, Spain with Special Emphasis on</unittitle></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Methods of Production and Firing of the Popular Hand-thrown</unittitle></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>Ceramics,” by Roberta Jean Griffith p. 121]</unittitle></did>
+             </c04>
+             <c04 level="file">
+                <did><unittitle>[See also Lisboa 1965]</unittitle></did>
+             </c04>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>The New York Art Review - artist biographies</unittitle><unitdate>1988</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Who’s Who in American Art</unittitle><unitdate>2009</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Who’s Who in America</unittitle><unitdate>2018</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>RECORDINGS</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“Roberta Griffith: The Artist Within”</unittitle><unitdate>2003</unitdate><physdesc>DVD (2 copies)</physdesc></did>
+          <c03 level="file">
+             <did><unittitle>[Additional 2 copies w/HC DVDs 83a&amp;b]</unittitle></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“Griffith Interview with Norma Hutman”</unittitle><unitdate>2/10/2003</unitdate><physdesc>CD</physdesc></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“Griffith Interview with Norma Hutman,” Radio WZOZ</unittitle><unitdate>2/3/2008</unitdate><physdesc>CD (3 copies)</physdesc></did>
+       </c02>
+ </c01>
+ <c01 level="series">
+    <did><container type="box-folder" label="Box ">SC26 9</container><unittitle>PHOTOGRAPHS/NEGATIVES</unittitle></did>
+       <c02 level="file">
+          <did><unittitle>National Music Camp</unittitle><unitdate>1951-52</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Camp Photos</unittitle><unitdate>1950s</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Family Photos and Portraits</unittitle><unitdate>1950s</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Porcelain Stoneware - Exhibit</unittitle><unitdate>1974</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Roberta with Porcelain Stoneware</unittitle><unitdate>1974</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Self-Portrait Ceramic</unittitle><unitdate>1974</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Roberta in her studio</unittitle><unitdate>c.1970s</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“Drawings and Clayworks”</unittitle><unitdate>1980</unitdate><physdesc>Albany, NY – Photographs &amp; Negatives</physdesc></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“Dōtaku Shrine”</unittitle><unitdate>1988</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Roberta in her studio and lecturing (color)</unittitle><unitdate>c.1980s</unitdate></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Postcards with images of ceramic works by Roberta Griffith</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Printed images of ceramic works by Roberta Griffith</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Negatives</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Porcelain Stoneware</unittitle></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Self-Portrait Ceramics</unittitle></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>PRINT PLATES</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“Griffith” Signature [Used on cover of DVD – “The Artist Within”]</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>“Self-Portrait Ceramic”</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>ARTIFACTS</unittitle></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Daughters of the American Revolution Award – pin</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Hartwick College Inside Hartwick</unittitle><unitdate>1992</unitdate><physdesc>[SC26 2]</physdesc></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Exhibitions</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Clay Today: A Wide Array</unittitle><unitdate>Nov/Dec 1989</unitdate><physdesc>Cooperstown [SC26 3]</physdesc></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Artistic Statements - Nikko Transfer Series</unittitle><unitdate>1994</unitdate><physdesc>[SC26 4]</physdesc></did>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Posters</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>The Ceramic and Glass Invitational</unittitle><unitdate>c. December 2019</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Hartwick College Faculty Exhibition</unittitle><unitdate>January/February 1980</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Ceramics in Architecture – Barcelona</unittitle><unitdate>2016</unitdate><physdesc>(2)</physdesc></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Memorabilia Posters – Miscellaneous</unittitle></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Publications – About Roberta Griffith [SC26 6]</unittitle></did>
+          <c03 level="file">
+             <did><unitdate>October 1974</unitdate><physdesc>– April 2007 (English)</physdesc></did>
+          </c03>
+          <c03 level="file">
+             <did><unitdate>April 1964</unitdate><physdesc>– March 1999 (Spanish)</physdesc></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Diplomas of Participation [SC26 7]</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>XXVIII Concorso Internatiale Della D’Arte</unittitle><unitdate>1970</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>XXXII Concorso Internatiale Della Ceramica Contemporanea D’Arte</unittitle><unitdate>1974</unitdate></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>38 º Concorso Internatiale Della Ceramica D’Arte</unittitle><unitdate>1980</unitdate></did>
+          </c03>
+       </c02>
+       <c02 level="file">
+          <did><unittitle>Memorabilia [SC26 7]</unittitle></did>
+          <c03 level="file">
+             <did><unittitle>Articles – English</unittitle></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Articles – Spanish</unittitle></did>
+          </c03>
+          <c03 level="file">
+             <did><unittitle>Article – “Skylines Around the World” - Daily Star</unittitle><unitdate>1996</unitdate></did>
+          </c03>
+       </c02>
+ </c01>
+</dsc>
+</archdesc>
+</ead> 

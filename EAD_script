@@ -1,0 +1,177 @@
+while read -r pattern
+do
+    script1+="$pattern;"
+done <<EOF
+s/<\/w:p>/ \n/g
+s/<\/w:t>/_t_/g
+s/\(<w:tab\/>\|<w:ind w:firstLine="720"\/>\)/_tab_/g
+s/<w:jc w:val="center"\/>/_center_/g
+s/<w:b\/>/_b_/g
+s/<[^>]*>//g
+s/\n\(\( \|_b_\|_tab_\|_center_\)*\n\)*/\n/g
+s/_t_//g
+s/SC[0-9]\+ \+\([0-9]\|OVERSIZE\)\+\s/<container type="box-folder" label="Box ">&<\/container>/g
+s/\n\(_center_\|_tab_\|_b_\|\s\)*/& <unittitle> /g
+s/\s*<\/container>/<\/container>/g
+s/<unittitle> <container/<container/g
+s/<\/container>[^<]*/<\/container>/g
+s/\n[^\n]*_center_[^\n]*<unittitle>[^\n]*//g
+s/_b_//g
+s/.*/& _end_ /g
+s/<unittitle> *_end_/_end_/g
+s/ *\(_tab_ *\)\{5\}<unittitle>/ _c07_ <unittitle>/g
+s/ *\(_tab_ *\)\{4\}<unittitle>/ _c06_ <unittitle>/g
+s/ *\(_tab_ *\)\{3\}<unittitle>/ _c05_ <unittitle>/g
+s/ *\(_tab_ *\)\{2\}<unittitle>/ _c04_ <unittitle>/g
+s/ *\(_tab_ *\)\{1\}<unittitle>/ _c03_ <unittitle>/g
+s/\(_tab_\|_center_\)/ /g
+EOF
+
+while read -r pattern
+do
+    script2+="$pattern;"
+done <<EOF
+s/\s\(c\. *\)\?\(Jan\.\?\(uary\)\? *\|Feb\.\?\(ruary\)\? *\|Mar\.\?\(ch\)\? *\|Apr\.\?\(il\)\? *\|May *\|Jun\.\?e\? *\|Jul\.\?y\? *\|Aug\.\?\(ust\)\? *\|Sep\.\?t\?\.\?\(ember\)\? *\|Oct\.\?\(ober\)\? *\|Nov\.\?\(ember\)\? *\|Dec\.\?\(ember\)\? *\|Spring *\|Summer *\|Fall *\)\?\( *\(-\|\/\|and\) *\(Jan\.\?\(uary\)\? *\|Feb\.\?\(ruary\)\? *\|Mar\.\?\(ch\)\? *\|Apr\.\?\(il\)\? *\|May *\|Jun\.\?e\? *\|Jul\.\?y\? *\|Aug\.\?\(ust\)\? *\|Sep\.\?t\?\.\?\(ember\)\? *\|Oct\.\?\(ober\)\? *\|Nov\.\?\(ember\)\? *\|Dec\.\?\(ember\)\? *\|Spring *\|Summer *\|Fall *\)\)*\([0-9]\{1,2\}\(\/\|, *\)\)*[0-9]\{4\}s\?\( *\( \|,\|-\|\/\|and\)*\(c\. *\)\?\(Jan\.\?\(uary\)\? *\|Feb\.\?\(ruary\)\? *\|Mar\.\?\(ch\)\? *\|Apr\.\?\(il\)\? *\|May *\|Jun\.\?e\? *\|Jul\.\?y\? *\|Aug\.\?\(ust\)\? *\|Sep\.\?t\?\.\?\(ember\)\? *\|Oct\.\?\(ober\)\? *\|Nov\.\?\(ember\)\? *\|Dec\.\?\(ember\)\? *\|Spring *\|Summer *\|Fall *\)\?\( *\(-\|\/\|and\) *\(Jan\.\?\(uary\)\? *\|Feb\.\?\(ruary\)\? *\|Mar\.\?\(ch\)\? *\|Apr\.\?\(il\)\? *\|May *\|Jun\.\?e\? *\|Jul\.\?y\? *\|Aug\.\?\(ust\)\? *\|Sep\.\?t\?\.\?\(ember\)\? *\|Oct\.\?\(ober\)\? *\|Nov\.\?\(ember\)\? *\|Dec\.\?\(ember\)\? *\|Spring *\|Summer *\|Fall *\)\)*\([0-9]\{1,2\}\(\/\|, *\)\)*[0-9]\{2,4\}s\?\)*\s/<unitdate>&<\/unitdate>/
+s/> *c\. *<\/unitdate>/certainty="Approximate" &/g
+s/\(n\.d\.\|N\.D\.\)/<unitdate>&<\/unitdate>/g
+s/<unittitle>[^<]*/&<\/unittitle>/g
+s/<unittitle>\s*<\/unittitle>//g
+s/^.*.>/&<physdesc>/
+s/<physdesc>.*$/&<\/physdesc>/
+s/<physdesc>\s*<\/physdesc>//
+s/\(<container\|<unittitle\|<unitdate\|<physdesc\).*$/<did>&<\/did>/
+s/ *<\//<\//g
+s/> */>/g
+s/^ *<did>\(<unittitle\|<unitdate\)/ _c02_ &/
+s/\(^ *<did><container\|^ *_end_\)/ _c01_ &/
+x
+G
+s/_c01_.*\n.*_c01_/& _11_ /
+s/_c01_.*\n.*_c02_/& _12_ /
+s/_c01_.*\n.*_c03_/& _13_ /
+s/_c01_.*\n.*_c04_/& _14_ /
+s/_c01_.*\n.*_c05_/& _15_ /
+s/_c01_.*\n.*_c06_/& _16_ /
+s/_c01_.*\n.*_c07_/& _17_ /
+s/_c02_.*\n.*_c01_/& _21_ /
+s/_c02_.*\n.*_c02_/& _22_ /
+s/_c02_.*\n.*_c03_/& _23_ /
+s/_c02_.*\n.*_c04_/& _24_ /
+s/_c02_.*\n.*_c05_/& _25_ /
+s/_c02_.*\n.*_c06_/& _26_ /
+s/_c02_.*\n.*_c07_/& _27_ /
+s/_c03_.*\n.*_c01_/& _31_ /
+s/_c03_.*\n.*_c02_/& _32_ /
+s/_c03_.*\n.*_c03_/& _33_ /
+s/_c03_.*\n.*_c04_/& _34_ /
+s/_c03_.*\n.*_c05_/& _35_ /
+s/_c03_.*\n.*_c06_/& _36_ /
+s/_c03_.*\n.*_c07_/& _37_ /
+s/_c04_.*\n.*_c01_/& _41_ /
+s/_c04_.*\n.*_c02_/& _42_ /
+s/_c04_.*\n.*_c03_/& _43_ /
+s/_c04_.*\n.*_c04_/& _44_ /
+s/_c04_.*\n.*_c05_/& _45_ /
+s/_c04_.*\n.*_c06_/& _46_ /
+s/_c04_.*\n.*_c07_/& _47_ /
+s/_c05_.*\n.*_c01_/& _51_ /
+s/_c05_.*\n.*_c02_/& _52_ /
+s/_c05_.*\n.*_c03_/& _53_ /
+s/_c05_.*\n.*_c04_/& _54_ /
+s/_c05_.*\n.*_c05_/& _55_ /
+s/_c05_.*\n.*_c06_/& _56_ /
+s/_c05_.*\n.*_c07_/& _57_ /
+s/_c06_.*\n.*_c01_/& _61_ /
+s/_c06_.*\n.*_c02_/& _62_ /
+s/_c06_.*\n.*_c03_/& _63_ /
+s/_c06_.*\n.*_c04_/& _64_ /
+s/_c06_.*\n.*_c05_/& _65_ /
+s/_c06_.*\n.*_c06_/& _66_ /
+s/_c06_.*\n.*_c07_/& _67_ /
+s/_c07_.*\n.*_c01_/& _71_ /
+s/_c07_.*\n.*_c02_/& _72_ /
+s/_c07_.*\n.*_c03_/& _73_ /
+s/_c07_.*\n.*_c04_/& _74_ /
+s/_c07_.*\n.*_c05_/& _75_ /
+s/_c07_.*\n.*_c06_/& _76_ /
+s/_c07_.*\n.*_c07_/& _77_ /
+s/.*\n//
+s/^.*_c01_ *\(_11_\)\? *<did>/<?xml version="1\.0" encoding="UTF-8"?>\n<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http:\/\/www\.w3\.org\/2001\/XMLSchema-instance"\n xsi:schemaLocation="urn:isbn:1-931666-22-9 http:\/\/www\.loc\.gov\/ead\/ead\.xsd">\n<eadheader>\n<eadid>CHA-CollectionID_EAD<\/eadid>\n<filedesc>\n<titlestmt>\n<titleproper>CollectionName finding aids, by YourName<\/titleproper>\n<\/titlestmt>\n<\/filedesc>\n<\/eadheader><archdesc level="collection">\n<did>\n<unitid>SC #<\/unitid>\n<langmaterial><language>English, and other?<\/language><\/langmaterial>\n<origination><persname>Creator of the collection<\/persname><\/origination>\n<unittitle>Title of the Collection<\/unittitle>\n<unitdate>Date range<\/unitdate>\n<physdesc><extent>.<\/extent><\/physdesc>\n<\/did><dsc type="combined">\n <c01> _c01_ <did>/
+s/^.*_c02_ _12_/ <c02> _c02_/
+s/^.*_c03_ _23_/ <c03> _c03_/
+s/^.*_c03_ _13_/ <c02> <c03> _c03_/
+s/^.*_c04_ _34_/ <c04> _c04_/
+s/^.*_c04_ _24_/ <c03> <c04> _c04_/
+s/^.*_c04_ _14_/ <c02> <c03> <c04> _c04_/
+s/^.*_c05_ _45_/ <c05> _c05_/
+s/^.*_c05_ _35_/ <c04> <c05> _c05_/
+s/^.*_c05_ _25_/ <c03> <c04> <c05> _c05_/
+s/^.*_c05_ _15_/ <c02> <c03> <c04> <c05> _c05_/
+s/^.*_c06_ _56_/ <c06> _c06_/
+s/^.*_c06_ _46_/ <c05> <c06> _c06_/
+s/^.*_c06_ _36_/ <c04> <c05> <c06> _c06_/
+s/^.*_c06_ _26_/ <c03> <c04> <c05> <c06> _c06_/
+s/^.*_c06_ _16_/ <c02> <c03> <c04> <c05> <c06> _c06_/
+s/^.*_c07_ _67_/ <c07> _c07_/
+s/^.*_c07_ _57_/ <c06> <c07> _c07_/
+s/^.*_c07_ _47_/ <c05> <c06> <c07> _c07_/
+s/^.*_c07_ _37_/ <c04> <c05> <c06> <c07> _c07_/
+s/^.*_c07_ _27_/ <c03> <c04> <c05> <c06> <c07> _c07_/
+s/^.*_c07_ _17_/ <c02> <c03> <c04> <c05> <c06> <c07> _c07_/
+s/^.*_c01_ _11_/ <\/c01> <c01> _c01_/
+s/^.*_c02_ _22_/ <\/c02> <c02> _c02_/
+s/^.*_c03_ _33_/ <\/c03> <c03> _c03_/
+s/^.*_c04_ _44_/ <\/c04> <c04> _c04_/
+s/^.*_c05_ _55_/ <\/c05> <c05> _c05_/
+s/^.*_c06_ _66_/ <\/c06> <c06> _c06_/
+s/^.*_c07_ _77_/ <\/c07> <c07> _c07_/
+s/^.*_c01_ _21_/ <\/c02> <\/c01> <c01> _c01_/
+s/^.*_c01_ _31_/ <\/c03> <\/c02> <\/c01> <c01> _c01_/
+s/^.*_c01_ _41_/ <\/c04> <\/c03> <\/c02> <\/c01> <c01> _c01_/
+s/^.*_c01_ _51_/ <\/c05> <\/c04> <\/c03> <\/c02> <\/c01> <c01> _c01_/
+s/^.*_c01_ _61_/ <\/c06> <\/c05> <\/c04> <\/c03> <\/c02> <\/c01> <c01> _c01_/
+s/^.*_c01_ _71_/ <\/c07> <\/c06> <\/c05> <\/c04> <\/c03> <\/c02> <\/c01> <c01> _c01_/
+s/^.*_c02_ _32_/ <\/c03> <\/c02> <c02> _c02_/
+s/^.*_c02_ _42_/ <\/c04> <\/c03> <\/c02> <c02> _c02_/
+s/^.*_c02_ _52_/ <\/c05> <\/c04> <\/c03> <\/c02> <c02> _c02_/
+s/^.*_c02_ _62_/ <\/c06> <\/c05> <\/c04> <\/c03> <\/c02> <c02> _c02_/
+s/^.*_c02_ _72_/ <\/c07> <\/c06> <\/c05> <\/c04> <\/c03> <\/c02> <c02> _c02_/
+s/^.*_c03_ _43_/ <\/c04> <\/c03> <c03> _c03_/
+s/^.*_c03_ _53_/ <\/c05> <\/c04> <\/c03> <c03> _c03_/
+s/^.*_c03_ _63_/ <\/c06> <\/c05> <\/c04> <\/c03> <c03> _c03_/
+s/^.*_c03_ _73_/ <\/c07> <\/c06> <\/c05> <\/c04> <\/c03> <c03> _c03_/
+s/^.*_c04_ _54_/ <\/c05> <\/c04> <c04> _c04_/
+s/^.*_c04_ _64_/ <\/c06> <\/c05> <\/c04> <c04> _c04_/
+s/^.*_c04_ _74_/ <\/c07> <\/c06> <\/c05> <\/c04> <c04> _c04_/
+s/^.*_c05_ _65_/ <\/c06> <\/c05> <c05> _c05_/
+s/^.*_c05_ _75_/ <\/c07> <\/c06> <\/c05> <c05> _c05_/
+s/^.*_c06_ _76_/ <\/c07> <\/c06> <c06> _c06_/
+s/<c01> *_c01_ *_end_/ _c01_ _end_/g
+s/<c01> <c02>/<c01> <did><unittitle>\[Title\]<\/unittitle>\[Date\]<unitdate><\/unitdate><\/did> <c02>/g
+s/<c02> <c03>/<c02> <did><unittitle>\[Title\]<\/unittitle>\[Date\]<unitdate><\/unitdate><\/did> <c03>/g
+s/<c03> <c04>/<c03> <did><unittitle>\[Title\]<\/unittitle>\[Date\]<unitdate><\/unitdate><\/did> <c04>/g
+s/<c04> <c05>/<c04> <did><unittitle>\[Title\]<\/unittitle>\[Date\]<unitdate><\/unitdate><\/did> <c05>/g
+s/<c05> <c06>/<c05> <did><unittitle>\[Title\]<\/unittitle>\[Date\]<unitdate><\/unitdate><\/did> <c06>/g
+s/<c06> <c07>/<c06> <did><unittitle>\[Title\]<\/unittitle>\[Date\]<unitdate><\/unitdate><\/did> <c07>/g
+s/ \+/ /g
+s/<\/\?c0[1-7]>/&\n/g
+s/[<_]\/\?c02[>_]/      &/g
+s/[<_]\/\?c03[>_]/         &/g
+s/[<_]\/\?c04[>_]/            &/g
+s/[<_]\/\?c05[>_]/               &/g
+s/[<_]\/\?c06[>_]/                  &/g
+s/[<_]\/\?c07[>_]/                     &/g
+s/_c0[1-7]_ \(_[1-7]\{2\}_\)\? *<did>/   <did>/g
+s/<c01/& level="series"/g
+s/<c0[2-7]/& level="file"/g
+1,3d
+s/[^\n]*_end_/<\/dsc>\n<\/archdesc>\n<\/ead>/g
+EOF
+
+for f in *Inventory*.docx; do 
+    unzip -c "$f" word/document.xml |\
+    #iconv -f UTF-8 -t ASCII//TRANSLIT |\
+    sed -e "$script1" |\
+    grep -v '^ *$' |\
+    sed -e "$script2" > "${f%.docx}.xml"
+done
